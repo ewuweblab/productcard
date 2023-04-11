@@ -1,0 +1,28 @@
+body {
+    background: red;
+    
+    height: 100vh;
+    display: grid;
+    justify-content: center;
+    align-content: center;
+  }
+  
+  div {
+    background : #94abd5;
+    width : 320px;
+    padding : 10px;
+    border-radius: 12px;
+  }
+  
+  /* text-align : center; */
+  h1 {
+    text-align : center ;
+  }
+  
+  p {
+    font-size : 1.5em;
+  }
+  
+  img {
+    border: 10px solid #605d5d;
+  }
